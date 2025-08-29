@@ -15,9 +15,9 @@ It explores how diamond prices vary across **color grades** and **cut categories
 - **Libraries**: `pandas`, `seaborn`, `statsmodels`
 
 ## Methods Applied
-- **One-Way ANOVA** → Tests whether mean diamond prices differ across color grades.
-- **Two-Way ANOVA** → Tests whether mean diamond prices differ across both color and cut, including their interaction.
-- **Post Hoc Tukey HSD Test** → Performs pairwise comparisons of diamond color grades following one-way ANOVA.
+- **One-Way ANOVA**: Tests whether mean diamond prices differ across color grades.
+- **Two-Way ANOVA**: Tests whether mean diamond prices differ across both color and cut, including their interaction.
+- **Post Hoc Tukey HSD Test**: Performs pairwise comparisons of diamond color grades following one-way ANOVA.
 
 ## How to Run
 
