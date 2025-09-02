@@ -5,7 +5,8 @@ It explores how diamond prices vary across **color grades** and **cut categories
 
 ## Dataset
 
-- `diamonds.csv` and `diamonds2.csv`
+- `diamonds.csv`: One-way ANOVA
+- `diamonds2.csv`: Two-way ANOVA
 - **Source:** [Seaborn diamonds dataset](https://seaborn.pydata.org/)
 
 ## Technologies Used
