@@ -1,6 +1,6 @@
 # 💎 Advanced Hypothesis Testing on Diamonds: ANOVA & Post Hoc Tests
 
-This project demonstrates the application of **one-way ANOVA**, **two-way ANOVA**, and **post hoc Tukey HSD tests** using a diamonds dataset.
+This project demonstrates the application of **one-way ANOVA**, **two-way ANOVA**, and **post hoc Tukey HSD tests** in Python using a diamonds dataset.
 It explores how diamond prices vary across **color grades** and **cut categories**, and whether there are interaction effects between these factors.
 
 ## Dataset
