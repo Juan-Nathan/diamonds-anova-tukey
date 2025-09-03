@@ -6,12 +6,12 @@ It explores how diamond prices vary across color grades and cut categories, and 
 ## Dataset
 
 - `diamonds.csv`  
-  - **Source:** [Seaborn diamonds dataset](https://seaborn.pydata.org/)  
+  - **Source:** [Seaborn](https://seaborn.pydata.org/)  
   - **Observations:** 39,840 
   - **Contents:** Diamond prices across different color grades  
 
 - `diamonds2.csv`  
-  - **Source:** [Seaborn diamonds dataset](https://seaborn.pydata.org/)  
+  - **Source:** [Seaborn](https://seaborn.pydata.org/)  
   - **Observations:** 34,935 
   - **Contents:** Diamond prices across different color grades and cut categories  
 
