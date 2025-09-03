@@ -1,14 +1,19 @@
 # 💎 Advanced Hypothesis Testing on Diamonds: ANOVA & Post Hoc Tests
 
-This project demonstrates the application of **one-way ANOVA**, **two-way ANOVA**, and **post hoc Tukey HSD tests** in Python using a diamonds dataset.
+This project demonstrates the application of **one-way ANOVA**, **two-way ANOVA**, and **post hoc Tukey HSD tests** in Python using the Seaborn diamonds dataset.
 It explores how diamond prices vary across color grades and cut categories, and whether there are interaction effects between these factors.
 
 ## Dataset
 
-- `diamonds.csv`: One-way ANOVA
-- `diamonds2.csv`: Two-way ANOVA
-- **Source**: [Seaborn diamonds dataset](https://seaborn.pydata.org/)
-- **Contents**: Diamond prices across different color grades and cut categories
+- `diamonds.csv`  
+  - **Source:** [Seaborn diamonds dataset](https://seaborn.pydata.org/)  
+  - **Observations:** 39,840 
+  - **Contents:** Diamond prices across different color grades  
+
+- `diamonds2.csv`  
+  - **Source:** [Seaborn diamonds dataset](https://seaborn.pydata.org/)  
+  - **Observations:** 34,935 
+  - **Contents:** Diamond prices across different color grades and cut categories  
 
 ## Technologies Used
 
