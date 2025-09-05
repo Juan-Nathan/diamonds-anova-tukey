@@ -2,7 +2,7 @@
 
 This project demonstrates rigorous hypothesis testing in Python by applying **one-way ANOVA**, **two-way ANOVA**, and **Tukey HSD post hoc tests** on the Seaborn diamonds dataset. It explores how diamond prices vary across color grades and cut categories, and whether there are interaction effects between these factors.
 
-## Dataset
+## Datasets
 
 - `diamonds.csv`  
   - **Source:** [Seaborn](https://seaborn.pydata.org/)  
