@@ -29,7 +29,7 @@ This project demonstrates rigorous hypothesis testing in Python by applying **on
 
 1. Clone the repository or download the ZIP file from GitHub.
 2. Open the project folder in your preferred environment.
-3. Open `diamonds_anova_posthoc.ipynb` and run the cells.
+3. Open `diamonds_anova_tukey.ipynb` and run the cells.
 
 ## Author
 
