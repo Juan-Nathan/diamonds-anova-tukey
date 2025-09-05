@@ -7,12 +7,11 @@ This project demonstrates rigorous hypothesis testing in Python by applying **on
 - `diamonds.csv`  
   - **Source:** [Seaborn](https://seaborn.pydata.org/)  
   - **Observations:** 39,840 
-  - **Contents:** Diamond prices across different color grades  
-
+  - **Contents:** Diamond prices across different color grades
 - `diamonds2.csv`  
   - **Source:** [Seaborn](https://seaborn.pydata.org/)  
   - **Observations:** 34,935 
-  - **Contents:** Diamond prices across different color grades and cut categories  
+  - **Contents:** Diamond prices across different color grades and cut categories
 
 ## Technologies Used
 
