@@ -1,6 +1,6 @@
 # 💎 Advanced Statistical Analysis of Diamond Data
 
-This project demonstrates rigorous hypothesis testing in Python by applying **one-way ANOVA**, **two-way ANOVA**, and **Tukey HSD post hoc** tests on diamond data from the Seaborn library. It explores how diamond prices vary across color grades and cut categories, and whether there are interaction effects between these factors.
+This project demonstrates rigorous hypothesis testing in Python by applying **one-way ANOVA**, **two-way ANOVA**, and **Tukey HSD post hoc** tests on the `diamonds` dataset from the Seaborn library. It explores how diamond prices vary across color grades and cut categories, and whether there are interaction effects between these factors.
 
 ## Datasets
 
