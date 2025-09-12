@@ -21,8 +21,8 @@ This project demonstrates rigorous hypothesis testing in Python by applying **on
 
 ## Methods Applied
 
-- **One-Way ANOVA**: Tests whether mean diamond prices differ across color grades.
-- **Two-Way ANOVA**: Tests whether mean diamond prices differ across both color and cut, including their interaction.
+- **One-Way ANOVA**: Tests whether mean diamond prices differ significantly across color grades.
+- **Two-Way ANOVA**: Tests whether mean diamond prices differ significantly across both color and cut, including their interaction.
 - **Tukey HSD Post Hoc**: Performs pairwise comparisons of diamond color grades following one-way ANOVA.
 
 ## How to Run
